@@ -17,18 +17,19 @@ This project is built using HTML, CSS, and JavaScript, making it lightweight, fa
 ## 📁 Project Structure
 
 fake-job-detector/
-│
-├── index.html        # Home Page
-├── analyze.html      # Job Analysis Form
-├── result.html       # Result Display Page
-│__ support.html      # support page
-|__ contact.html      #contact Page
-|__ about.html        #About Page
-├── style.css         # Styling (UI Design)
-├── script.js         # Logic & Detection System
-│__ support.js        # Support system
-|__ contact.js        # Contact System
-└── images/           # (Optional) Icons / Assets
+
+- │
+- ├── index.html        # Home Page
+- ├── analyze.html      # Job Analysis Form
+- ├── result.html       # Result Display Page
+- │__ support.html      # support page
+- |__ contact.html      #contact Page
+- |__ about.html        #About Page
+- ├── style.css         # Styling (UI Design)
+- ├── script.js         # Logic & Detection System
+- │__ support.js        # Support system
+- |__ contact.js        # Contact System
+- └── images/           # (Optional) Icons / Assets
 
 ## ⚙️ How It Works
 
