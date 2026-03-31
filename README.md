@@ -366,3 +366,4 @@ git push origin main
 ✅ Done!
 
 Your updated README will now appear on your GitHub repo..
+        ********************************************** IF YOU LIKE THESE GIVE ME A STAR *************************************************************** 
